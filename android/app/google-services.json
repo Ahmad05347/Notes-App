@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "711108468248",
+    "project_id": "my-notes-app-d401a",
+    "storage_bucket": "my-notes-app-d401a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711108468248:android:b77a3dd2a38df9abd22d6d",
+        "android_client_info": {
+          "package_name": "com.example.my_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oyKQJbOn2uEPemm5iKqXvUoBVmMuehg"
+        },
+        {
+          "current_key": "AIzaSyDb_PfN8qVIbl5O0ohMgbzMV6vfIJvHLO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711108468248:android:994388dfd4cc28eed22d6d",
+        "android_client_info": {
+          "package_name": "com.example.payment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oyKQJbOn2uEPemm5iKqXvUoBVmMuehg"
+        },
+        {
+          "current_key": "AIzaSyDb_PfN8qVIbl5O0ohMgbzMV6vfIJvHLO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
